@@ -1,0 +1,41 @@
+body {
+    background-color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(44, 78, 113);
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+    color: burlywood;
+}
+
+h3 {
+    text-align: center;
+    color: burlywood;
+}
+
+.yesmami {
+    text-align: center;
+    color: burlywood;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: xx-large;
+}
+
+.overskrift {
+    margin-top: 60px;
+    border-color: aquamarine;
+    font-style: oblique;
+}
